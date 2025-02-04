@@ -112,13 +112,14 @@ This ensures numerical stability by making sure that information doesn't propaga
 ## Output Examples
 
 ### 2D Vector Field Visualization
-<video src="./velocity_compress.mp4" controls="controls" style="max-width: 730px;">
+![Vector Field](./velocity_image.png)
+
 </video>
 
 This visualization shows the velocity field of the fluid, with arrows indicating direction and magnitude of flow.
 
 ### 3D Wave Animation
-<video src="./eta_surface_compressed.mp4" controls="controls" style="max-width: 730px;">
+![Wave Animation](./shallow_3d.png)
 </video>
 
 
