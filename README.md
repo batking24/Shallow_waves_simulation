@@ -118,7 +118,7 @@ This ensures numerical stability by making sure that information doesn't propaga
 This visualization shows the velocity field of the fluid, with arrows indicating direction and magnitude of flow.
 
 ### 3D Wave Animation
-<video src="eta_surface_compressed.mp4" controls="controls" style="max-width: 730px;">
+<video src="./eta_surface_compressed.mp4" controls="controls" style="max-width: 730px;">
 </video>
 
 
